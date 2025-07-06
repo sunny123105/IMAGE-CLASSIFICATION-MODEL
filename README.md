@@ -43,3 +43,4 @@ The training and validation accuracy and loss values over epochs are plotted usi
 
 
 output:<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/636c5e9d-44a2-4f0f-9216-716690161fd6" />
+![Image](https://github.com/user-attachments/assets/82782b1d-4c0e-4a89-9eed-55dc41e2a597)
