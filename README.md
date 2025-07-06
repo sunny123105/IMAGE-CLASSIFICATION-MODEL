@@ -40,3 +40,6 @@ After training, the model’s performance is evaluated on the test dataset using
 
 5. Visualization
 The training and validation accuracy and loss values over epochs are plotted using Matplotlib. These plots help in understanding the learning behavior of the model — whether it is underfitting, overfitting, or training well.
+
+
+output:<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/636c5e9d-44a2-4f0f-9216-716690161fd6" />
